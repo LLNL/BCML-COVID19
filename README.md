@@ -1,5 +1,6 @@
-# Budget Constrained Machine Learning for Early Prediction of Adverse Outcomes for COVID-19 Patients
-- Paper: https://www.researchsquare.com/article/rs-593801/v1
+## Paper
+- Title: Budget Constrained Machine Learning for Early Prediction of Adverse Outcomes for COVID-19 Patients
+- Link: https://www.nature.com/articles/s41598-021-98071-z
 
 ## Structure:
 - scripts/: scripts to run training routines
